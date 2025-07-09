@@ -5,7 +5,7 @@ import "./App.css";
 function App() {
 
   return (
-    <div className="min-h-screen  mx-[auto]  bg-aliceblue">
+    <div className="min-h-screen  mx-[auto]  bg-blue-50">
       {/* <div className="text-center"> */}
        <SmartTodoList/>        
       {/* </div>s */}

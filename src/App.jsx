@@ -1,6 +1,7 @@
 
 import SmartTodoList from './components/todoList'
 import './index.css';
+import "./App.css";
 function App() {
 
   return (
